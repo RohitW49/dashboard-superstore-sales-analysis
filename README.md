@@ -13,7 +13,7 @@ A dashboard was created for interactive exploration and better business understa
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Screenshot](Dashboard_Screenshot.png)
+![Dashboard Screenshot](Dashboard_Screenshort.png)
 
 ---
 
